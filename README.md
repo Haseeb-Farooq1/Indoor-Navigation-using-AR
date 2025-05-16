@@ -1,3 +1,4 @@
 # Indoor-Navigation-using-AR
-Developed An indoor navigation application using AR(Augmented Reality)principles.  
+Developing An indoor navigation application using AR(Augmented Reality)principles.  
 Currently on initial steps... 
+Some errors which are yet to be resolved
